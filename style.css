@@ -1,0 +1,90 @@
+#box1 {
+  width:60px;
+  height: 60px;
+  margin:10px;
+  padding:10px;
+  float:left;
+  background-color: #5CCDBE;
+}
+#box2 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #5CA4CD;
+}
+#box3 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+ background-color: #CD5CA4;
+}
+#box4 {
+  width:60px;
+  height:60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #EFE93F;
+}
+#box5 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #9DEF3F;
+}
+#box6 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #3FEFE9;
+}
+#box7 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #EF3F61;
+}
+#box8 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #F0DADE;
+}
+#box9 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #B122DA;
+}
+#box10 {
+  width:60px;
+  height: 60px;
+  padding:10px;
+	margin: 10px;
+  float:left;
+  background-color: #22B9DA;
+}
+@-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {left: 200px;}
+}
+  @keyframes mymove {
+     from {left: 0px;}
+    to {left: 200px;}
+  }
+    
+  
